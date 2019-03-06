@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         }
         
         print("Total Sum \(self.sum), \(count) times")
+        print("Total Sum \(self.sum + count) ")
         
     }
 
